@@ -1,0 +1,6 @@
+nome = input ('Qual seu nome? ')
+print ('Olá Bruno, sejá muito bem vindo essa jornada de programação')
+pergunta = input ('Você já tem uma linguagem de programação preferida?' )
+print (' Um que legal, python é uma linguagem de programação excelente!')
+pergunta = input ('quantos anos você tem? ')
+print ('Hummm, você é um rapaz novo, ainda tem muito a apreende, por isso levante a cabeça e foque no que você quer, não desista' )
